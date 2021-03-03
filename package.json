@@ -1,0 +1,23 @@
+{
+  "name": "customer-management",
+  "version": "1.0.0",
+  "description": "RESTful API guided practice II",
+  "main": "index.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "?"
+  },
+  "keywords": [
+    "RESTful",
+    "API"
+  ],
+  "author": "Mandy Chen",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
